@@ -34,7 +34,7 @@ Welcome to the **Spy Agency Blind Signature Project!** This project demonstrates
 ### 1️⃣ Install Dependencies
 Ensure you have **Node.js** installed. Then, install required dependencies:
 ```bash
-npm install blind-signatures jsbn crypto
+npm install blind-signatures jsbn
 ```
 
 ### 2️⃣ Run the Project
